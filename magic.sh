@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cp ../dot-vim ~/.vim -rv
+cp ../h-dot-vim ~/.vim -rv
 
 cd ~/.vim -v
 
